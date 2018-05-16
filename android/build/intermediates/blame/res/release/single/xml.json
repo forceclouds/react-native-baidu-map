@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/awake/Desktop/work/crm/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/awake/Desktop/work/crm/node_modules/react-native-baidu-map/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/challenger/Documents/Work/forceClouds/mobile/phone/MobileCRM/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/challenger/Documents/Work/forceClouds/mobile/phone/MobileCRM/node_modules/react-native-baidu-map/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,18 @@
+//
+//  RCTBaiduMapViewManager.h
+//  RCTBaiduMap
+//
+//  Created by lovebing on Aug 6, 2016.
+//  Copyright © 2016 lovebing.org. All rights reserved.
+//
+
+#import "RCTBaiduMapView.h"
+
+@interface RCTBaiduMapViewManager : RCTViewManager<BMKMapViewDelegate>
+
++ (void)initSDK:(NSString *)key;
+
+- (void)sendEvent:(RCTBaiduMapView *) mapView params:(NSDictionary *) params;
+
+@end
+

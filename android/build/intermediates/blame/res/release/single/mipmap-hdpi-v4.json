@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/challenger/Documents/Work/forceClouds/mobile/phone/MobileCRM/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/icon_gcoding.png",
+        "source": "/Users/challenger/Documents/Work/forceClouds/mobile/phone/MobileCRM/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/icon_gcoding.png"
+    },
+    {
+        "merged": "/Users/awake/Desktop/work/crm/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/mipmap-hdpi-v4/icon_gcoding.png",
+        "source": "/Users/awake/Desktop/work/crm/node_modules/react-native-baidu-map/android/src/main/res/mipmap-hdpi/icon_gcoding.png"
+    }
+]
